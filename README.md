@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate **on entry-level data science projects or initiatives where I can contribute my knowledge and learn from experienced professionals in the field.**
 
-- 📫 How to reach me **linkedin.com/in/urvashi-dhakate-b0780320a**
+- 📫 How to reach me **https://www.linkedin.com/in/urvashi-dhakate-b0780320a/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
